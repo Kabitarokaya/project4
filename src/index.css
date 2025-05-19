@@ -1,0 +1,29 @@
+.aa{
+  height: 300px;
+  object-fit: contain;
+  margin-bottom: 30px;
+}
+.share{
+  background: #AAD961;
+}
+.whatsapp{
+  background: #25D366;
+}
+
+.facebook{
+  background: #4267B2;
+}
+.arrow:hover{
+  background: gray !important;
+  color: #fff;
+  border: none;
+}
+li{
+  list-style: none;
+}
+.bg{
+  background: #0B9444;
+}
+.abc img{
+  height: 150px; object-fit: cover;
+}
